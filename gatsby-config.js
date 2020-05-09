@@ -1,8 +1,8 @@
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Responsive Sidebar`,
-    description: `kick off your next project with this awesome starter with a beautiful side drawer or sidebar`,
-    author: `@gatsbyjs`,
+    title: `Portfolio Website`,
+    description: `Work in Progress`,
+    author: `@aehlius`,
   },
   plugins: [
     `gatsby-plugin-react-helmet`,

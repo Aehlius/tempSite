@@ -5,45 +5,19 @@ export default function socialLinks() {
   return (
     <div>
       <div className="social-cont">
+
         <div className="circle-cont">
-          <a href="">
+          <a href="https://www.github.com/Aehlius/">
             <img
-              src="https://image.flaticon.com/icons/svg/2111/2111628.svg"
+              src="https://image.flaticon.com/icons/svg/2111/2111425.svg"
               alt=""
               width="30"
             />
           </a>
         </div>
+
         <div className="circle-cont">
-          <a href="https://twitter.com/Mr404Found">
-            <img
-              src="https://image.flaticon.com/icons/svg/733/733579.svg"
-              alt=""
-              width="30"
-            />
-          </a>
-        </div>
-        
-        <div className="circle-cont">
-          <a href="">
-            <img
-              src="https://image.flaticon.com/icons/svg/732/732245.svg"
-              alt=""
-              width="30"
-            />
-          </a>
-        </div>
-        <div className="circle-cont">
-          <a href="">
-            <img
-              src="https://image.flaticon.com/icons/svg/1384/1384063.svg"
-              alt=""
-              width="30"
-            />
-          </a>
-        </div>
-        <div className="circle-cont">
-          <a href="">
+          <a href="https://www.linkedin.com/in/iskenderakhmedov/">
             <img
               src="https://image.flaticon.com/icons/svg/2111/2111499.svg"
               alt=""
@@ -51,6 +25,18 @@ export default function socialLinks() {
             />
           </a>
         </div>
+        
+
+        <div className="circle-cont">
+          <a href="mailto:ia913@nyu.edu">
+            <img
+              src="https://image.flaticon.com/icons/svg/281/281769.svg"
+              alt=""
+              width="30"
+            />
+          </a>
+        </div>
+
       </div>
     </div>
   )

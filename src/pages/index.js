@@ -16,16 +16,18 @@ import {
 const IndexPage = () => (
   <div>
   <div className="landingPage">
-  <SEO title="Welcome" />
-  <Sidebar />
+  <SEO title="Iskender Akhmedov" />
   <div className="my-image" style={{width:170}}>
   <Image />
   </div>
-  <h6>JO BREED.</h6><br/>
+  <br/>
+  <h4>
+          <br /> <br />  <br /> Site Under Construction
+          </h4>
+          <br />  <br /> <br /> <br /> <br />
+          <br /> <br /> <br /> <br /><h4>In the meantime, find me here</h4> 
   </div>
   <Social />
-  <Skills />
-  <Footer />
   </div>
 )
 
